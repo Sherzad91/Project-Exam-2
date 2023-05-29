@@ -1,1 +1,16 @@
+# Dependency folders
 node_modules/
+.cache/
+
+# Build artifacts
+dist/
+build/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
